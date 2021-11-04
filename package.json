@@ -1,0 +1,32 @@
+{
+  "name": "anti-spam-modbot",
+  "version": "1.0.0",
+  "description": "Just a bot template for a moderation bot with antispam. (discord-anti-spam)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Scraayp/AntiSpam-ModBot.git"
+  },
+  "keywords": [
+    "bottemplate",
+    "discord-anti-spam",
+    "discordantispam",
+    "antispam",
+    "bot",
+    "discordbot",
+    "discord"
+  ],
+  "author": "Scraayp#9050",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Scraayp/AntiSpam-ModBot/issues"
+  },
+  "homepage": "https://github.com/Scraayp/AntiSpam-ModBot#readme",
+  "dependencies": {
+    "discord-anti-spam": "^2.4.1",
+    "discord.js": "^12.2.0"
+  }
+}
