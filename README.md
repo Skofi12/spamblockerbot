@@ -73,4 +73,4 @@ Help needed. Join the support server below
 # Any Help
 You can open up any pull requests, issues and that sort of things.
 
-But you can always join the support discord server of the discord-anti-spam module. (https://discord.gg/AuP2tCH)
+But you can always join the support discord server of the discord-anti-spam module. (https://discord.gg/RPtNXW2zKP)
