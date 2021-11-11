@@ -21,9 +21,7 @@ I will prefer using visual code editor.
 
 Download link: https://code.visualstudio.com/Download
 
-# Installation package.
-https://github.com/Scraayp/AntiSpam-ModBot/releases
-Install the package in here. (The latest one)
+
 
 Right click on the folder there you see a option open with Code.
 
